@@ -1,5 +1,7 @@
 # @osherhacohen/react-native-slider-rtl-default
 
+This is a lazy implementation for RTL meant for a fast solution in case where other sliders fail.
+
 IMPORTANT: In order to make this work, use the containerStyle prop and transform (in addition to any other styles you may have):
 
 containerStyle={{transform: [{ scale:-1 }]}}
