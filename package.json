@@ -1,7 +1,7 @@
 {
-    "name": "@miblanchard/react-native-slider",
+    "name": "@osherhacohen/react-native-slider-rtl-default",
     "version": "2.1.0",
-    "description": "A pure JavaScript <Slider /> component for react-native",
+    "description": "A pure JavaScript <Slider /> component for react-native based on miblanchard's RN slider, but this time RTL is the default",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
