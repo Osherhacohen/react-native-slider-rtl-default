@@ -1,4 +1,4 @@
-# @miblanchard/react-native-slider
+# @miblanchard/react-native-slider-rtl-default
 
 ![Node.js CI](https://github.com/miblanchard/react-native-slider/workflows/Node.js%20CI/badge.svg?branch=main)
 [![npm version](https://img.shields.io/npm/v/@miblanchard/react-native-slider.svg?style=flat-square)](https://npmjs.org/package/@miblanchard/react-native-slider 'View this project on npm')
