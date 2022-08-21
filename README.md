@@ -1,4 +1,8 @@
-# @miblanchard/react-native-slider-rtl-default
+# @osherhacohen/react-native-slider-rtl-default
+
+IMPORTANT: In order to make this work, use the containerStyle prop and transform (in addition to any other styles you may have):
+
+containerStyle={{transform: [{ scale:-1 }]}}
 
 ![Node.js CI](https://github.com/miblanchard/react-native-slider/workflows/Node.js%20CI/badge.svg?branch=main)
 [![npm version](https://img.shields.io/npm/v/@miblanchard/react-native-slider.svg?style=flat-square)](https://npmjs.org/package/@miblanchard/react-native-slider 'View this project on npm')
